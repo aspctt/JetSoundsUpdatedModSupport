@@ -1,0 +1,18 @@
+{
+	"NAME"		: "Jet Sounds Updated - Mod Support",
+	"URL"		: "https://raw.githubusercontent.com/aspctt/JetSoundsUpdatedModSupport/main/JetSoundsUpdatedModSupport.version",
+	"DOWNLOAD"	: "https://github.com/aspctt/JetSoundsUpdatedModSupport/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/aspctt/JetSoundsUpdatedModSupport/main/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/aspctt/JetSoundsUpdatedModSupport/main/CHANGES.md",
+	"VERSION":{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":0,
+		"BUILD":0
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":8,
+		"PATCH":0
+		}
+}
